@@ -1,8 +1,5 @@
 #---------------------------------------------------------------------------#
-# Name:					Harsh Gopalan (NET ID: HXG190023)
-# Professor/Instructor: 		Dr. Karen Mazidi
-# Class and Section Number: 		CS 2340. 003
-# Date Started/Finised Assignment:    	10/18/2021 - 11/07/2021
+# Name:					Harsh Gopalan
 # Assignment Title: 			Bitmap Project
 
 # Info. About Program: 			1132 Lines Without Comments & Whitespace
