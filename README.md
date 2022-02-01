@@ -23,14 +23,26 @@ Once the box number is selected, do not click enter or any other key as this wil
 Continue reading the instructions once the box number is selected.
 
 Next, select one of the colors listed below by clicking the correct key on keyboard: 
-Red: r    Blue: b    Magenta: m    White: w 
-Yellow: y    Cyan: c    Green: g    Orange: o 
-Purple: u    Gray: i    Maroon: n
+- Red: r    
+- Blue: b    
+- Magenta: m    
+- White: w 
+- Yellow: y    
+- Cyan: c    
+- Green: g    
+- Orange: o 
+- Purple: u    
+- Gray: i    
+- Maroon: n
 
 Once again continue reading the instructions once the color is selected and do not press enter or any other key until you read the next set of instructions.
 
 Finnaly, select one of the shapes listed below: 
-Plus Sign: p    Minus Sign: s    Square Box: o    X-Shape: x Smiley Face Shape: f
+- Plus Sign: p    
+- Minus Sign: s    
+- Square Box: o    
+- X-Shape: x 
+- Smiley Face Shape: f
 
 Once this is done, your selected shape will be drawn in your chosen color at your chosen box. 
 Make sure to do the steps in that order, as the program will not work if it is not done in that order. 
